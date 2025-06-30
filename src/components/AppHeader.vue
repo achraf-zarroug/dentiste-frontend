@@ -12,7 +12,7 @@
             </div>
             <div class="ml-3">
               <span class="text-2xl font-bold bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
-                Dr. Chaabani
+                Dr. Zarroug
               </span>
               <p class="text-sm text-gray-500 -mt-1">Chirurgien Dentiste</p>
             </div>

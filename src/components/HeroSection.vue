@@ -5,6 +5,7 @@
     <div class="absolute bottom-20 right-1/4 w-24 h-24 bg-yellow-100 rounded-full opacity-30 animate-float" style="animation-delay: 1s;"></div>
     
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        
       <div class="text-center">
         <!-- Logo central avec animation -->
         <div class="mb-12 flex justify-center">
@@ -75,6 +76,10 @@
           </div>
         </div>
       </div>
+      <h1 class="sr-only">
+  Dentiste à Zarzis - Soins Dentaires Professionnels en Tunisie
+</h1>
+
     </div>
   </section>
 </template>
@@ -85,6 +90,6 @@ const scrollToContact = () => {
 }
 
 const callPhone = () => {
-  window.location.href = 'tel:+21612345678'
+  window.location.href = 'tel:+21624231240'
 }
 </script>

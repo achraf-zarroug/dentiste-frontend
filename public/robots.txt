@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dr-achraf-zarroug.vercel.app/sitemap.xml
