@@ -7,7 +7,7 @@
           Nos Services
         </div>
         <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
-          Excellence en soins dentaires
+          Votre dentiste à Zarzis, spécialiste des soins dentaires d’excellence
         </h2>
         <p class="text-xl text-gray-600 max-w-3xl mx-auto">
           Une gamme complète de traitements dentaires avec les dernières technologies 
